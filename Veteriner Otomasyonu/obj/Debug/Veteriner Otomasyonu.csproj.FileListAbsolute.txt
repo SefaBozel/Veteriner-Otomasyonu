@@ -1,0 +1,19 @@
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\obj\Debug\Veteriner Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\obj\Debug\Veteriner_Otomasyonu.HastaGiris.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\obj\Debug\Veteriner_Otomasyonu.Kayıt.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\obj\Debug\Veteriner_Otomasyonu.Properties.Resources.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\obj\Debug\Veteriner Otomasyonu.csproj.GenerateResource.cache
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\obj\Debug\Veteriner Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\obj\Debug\Veteriner_Otomasyonu.Giris.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\bin\Debug\Veteriner Otomasyonu.exe.config
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\bin\Debug\Veteriner Otomasyonu.exe
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\bin\Debug\Veteriner Otomasyonu.pdb
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\obj\Debug\Veteriner Otomasyonu.exe
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\obj\Debug\Veteriner Otomasyonu.pdb
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\obj\Debug\Veteriner_Otomasyonu.KayitliHayvanlar.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\obj\Debug\Veteriner_Otomasyonu.PersonelAnasayfa.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\obj\Debug\Veteriner_Otomasyonu.DoktorListesi.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\obj\Debug\Veteriner_Otomasyonu.KullaniciListesi.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\obj\Debug\Veteriner_Otomasyonu.HayvanListesi.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\obj\Debug\Veteriner_Otomasyonu.GecmisRandevular.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Veteriner Otomasyonu\Veteriner Otomasyonu\obj\Debug\Veteriner_Otomasyonu.DoktorAnaSayfa.resources
